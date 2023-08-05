@@ -11,3 +11,6 @@ public class EcabDemoApplication {
 	}
 
 }
+
+// Getters and Setters
+
